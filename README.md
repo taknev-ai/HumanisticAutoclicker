@@ -10,9 +10,10 @@ Please do not use this to cheat in online games that are CPS dependent. I do not
 Certain values are hard-coded for optimization. As with all things Python, readability was prioritized. Print statements in the script are for debugging purposes only.
 
 ## TODO
-[ ] Use CSV files for different clicking profiles 
-[ ] User defined hotkeys
-[ ] GUI (far down the line though, not sure if I'll be able to get to it)
+
+- [ ] Use CSV files for different clicking profiles 
+- [ ] User defined hotkeys
+- [ ] GUI (far down the line though, not sure if I'll be able to get to it)
 
 ## Known Issues and Bugs
 - Does not recognize input if hotkey is pressed within first ~10 seconds of script being initialized
